@@ -1,5 +1,5 @@
 body {
-    background: black;
+    background: rgb(229, 222, 222);
     display:flex;
     align-items: center;
     justify-content: center;
@@ -12,8 +12,8 @@ body {
 
 .clock {
    
-    color: #17D4FE;
-    font-size: 60px;
+    color:rgb(128, 46, 46);
+    font-size: 80px;
     letter-spacing: 7px;
 
 }
